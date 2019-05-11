@@ -1,0 +1,15 @@
+"0","j1 <- join(population, gdp)"
+"2","Joining by: iso2c, country, year
+"
+"0","j2 <- join(j1,elecAccess)"
+"2","Joining by: iso2c, country, year
+"
+"0","j3 <- join(j2,elecConsumption)"
+"2","Joining by: iso2c, country, year
+"
+"0","j4 <- join(j3,co2Emissions)"
+"2","Joining by: iso2c, country, year
+"
+"0","wbData1 <- join(j4,sanitationAccess)"
+"2","Joining by: iso2c, country, year
+"

@@ -1,0 +1,6 @@
+"0","names(population)[3]=""Total population"""
+"0","names(gdp)[3]=""GDP US($)"""
+"0","names(elecAccess)[3]=""Access to Electricity (% popn)"""
+"0","names(elecConsumption)[3]=""Electric power consumption (KWH per capita)"""
+"0","names(co2Emissions)[3]=""CO2 emisions"""
+"0","names(sanitationAccess)[3]=""Access to sanitation(% popn)"""

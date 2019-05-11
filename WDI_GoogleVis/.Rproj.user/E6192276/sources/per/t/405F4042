@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555351312385.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1331408380",
+    "id" : "405F4042",
+    "lastKnownWriteTime" : 1556746244,
+    "last_content_update" : 1556746244691,
+    "path" : "F:/R Projects/WDI/WDI_GoogleVis/wdi.R",
+    "project_path" : "wdi.R",
+    "properties" : {
+        "cursorPosition" : "14,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,6 @@
+"0","names(population)[3]=""Total population"""
+"0","names(lifeExpectancy)[3]=""Life Expectancy (Years)"""
+"0","names(gdp)[3]=""GDP (US$)"""
+"0","names(income)[3]=""GDP per capita income"""
+"0","names(fertility)[3]=""Fertility (Births per woman)"""
+"0","names(poverty)[3]=""Poverty headcount ratio"""

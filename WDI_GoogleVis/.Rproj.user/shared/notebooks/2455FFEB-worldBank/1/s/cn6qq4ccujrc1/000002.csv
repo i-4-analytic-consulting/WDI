@@ -1,0 +1,15 @@
+"0","j1 <- join(population, gdp)"
+"2","Joining by: iso2c, country, year
+"
+"0","j2 <- join(j1,lifeExpectancy)"
+"2","Joining by: iso2c, country, year
+"
+"0","j3 <- join(j2,income)"
+"2","Joining by: iso2c, country, year
+"
+"0","j4 <- join(j3,poverty)"
+"2","Joining by: iso2c, country, year
+"
+"0","wbData <- join(j4,fertility)"
+"2","Joining by: iso2c, country, year
+"

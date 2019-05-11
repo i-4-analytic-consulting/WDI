@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555371011222.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2785131993",
+    "id" : "624D4FA1",
+    "lastKnownWriteTime" : 1555348291,
+    "last_content_update" : 1556746596020,
+    "path" : "F:/R Projects/WDI/WDI_GoogleVis/worldBankAnalysis-master/worldBankAnalysis-master/worldBank.Rmd",
+    "project_path" : "worldBankAnalysis-master/worldBankAnalysis-master/worldBank.Rmd",
+    "properties" : {
+        "cursorPosition" : "166,18",
+        "scrollLine" : "156"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

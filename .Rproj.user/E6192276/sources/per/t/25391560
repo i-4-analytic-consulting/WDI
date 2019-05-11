@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555646210159.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3629614930",
+    "id" : "25391560",
+    "lastKnownWriteTime" : 1556747762,
+    "last_content_update" : 1556747762776,
+    "path" : "F:/R Projects/WDI/WDI.r",
+    "project_path" : "WDI.r",
+    "properties" : {
+        "cursorPosition" : "34,24",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
